@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaBatch</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Drivers/chromedriver.exe</name>
+			<type>1</type>
+			<location>D:/Mkv family/BANU/chromedriver_win32/chromedriver.exe</location>
+		</link>
+		<link>
+			<name>Drivers/msedgedriver.exe</name>
+			<type>1</type>
+			<location>D:/Mkv family/BANU/edgedriver_win64/msedgedriver.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
